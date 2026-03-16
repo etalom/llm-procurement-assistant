@@ -1,0 +1,8 @@
+
+Machine learning is a field of artificial intelligence.
+
+Transformers are neural networks used in modern language models.
+
+Embeddings represent text as vectors.
+
+RAG combines document retrieval with language models.
